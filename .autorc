@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "jparke10",
+  "repo": "container-fcyjeys",
+  "name": "jparke10",
+  "email": "jparke10@uoregon.edu",
+}
